@@ -1,6 +1,6 @@
 # XV6 Quiz (CSL 3030)
 
-Welcome to the XV Quiz for CSL 3030 - Operating Systems!
+Welcome to the XV6 Quiz for CSL 3030 - Operating Systems!
 
 
 
